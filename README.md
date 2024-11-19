@@ -1,0 +1,1 @@
+# jpiere.plugin.bulk.update
