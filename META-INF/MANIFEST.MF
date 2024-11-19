@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: jpiere.plugin.bulk.update
+Bundle-SymbolicName: jpiere.plugin.bulk.update;singleton:=true
+Bundle-Version: 11.0.0.qualifier
+Require-Bundle: org.adempiere.base;bundle-version="11.0.0"
+Automatic-Module-Name: jpiere.plugin.bulk.update
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Service-Component: OSGI/*.xml
