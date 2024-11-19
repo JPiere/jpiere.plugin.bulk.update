@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <artifactId>jpiere.plugin.bulk.update</artifactId>
   <packaging>eclipse-plugin</packaging>
-  <name>jpiere.plugin.delete</name>
+  <name>jpiere.plugin.bulk.update</name>
   <parent>
     <groupId>org.idempiere</groupId>
 	<artifactId>org.idempiere.parent</artifactId>
