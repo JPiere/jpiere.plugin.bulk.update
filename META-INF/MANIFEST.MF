@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: jpiere.plugin.bulk.update
 Bundle-SymbolicName: jpiere.plugin.bulk.update;singleton:=true
 Bundle-Vendor: OSS ERP Solutions
-Bundle-Version: 11.0.0.qualifier
+Bundle-Version: 12.0.0.qualifier
 Require-Bundle: org.adempiere.base;bundle-version="11.0.0"
 Automatic-Module-Name: jpiere.plugin.bulk.update
 Bundle-ActivationPolicy: lazy
